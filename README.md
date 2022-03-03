@@ -1,6 +1,5 @@
 # Hi, I’m Gabriel!
  I’m interested in back end web development with NodeJS and Express<br>
- I’m currently studying NodeJS
 
 ### Languages and tools
 <a href="archlinux.org">![Arch](https://img.shields.io/badge/Arch%20Linux-1793D1?logo=arch-linux&logoColor=fff&style=for-the-badge)</a>
