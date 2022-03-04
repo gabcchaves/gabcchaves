@@ -1,6 +1,6 @@
 ![Greeting](./images/greeting.png "Greeting") <br>
-I'm a web developer<br>
-My main focus is back-end
+<b>I'm a web developer</b><br>
+<b>My main focus is back-end</b>
 
 ### Languages and tools
 #### Front-end
