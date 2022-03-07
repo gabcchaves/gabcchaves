@@ -9,6 +9,7 @@
 <a href="https://developer.mozilla.org/pt-BR/docs/Web/JavaScript">![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)</a>
 <a href="https://getbootstrap.com/">![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)</a>
 <a href="https://jquery.com/">![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white)</a>
+<a href="https://reactjs.org/">![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)</a>
 <br>
 #### Back-end
 <a href="https://nodejs.org/en/">![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)</a>
