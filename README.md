@@ -1,2 +1,4 @@
-#### Contact
-<a href="https://www.linkedin.com/in/gabcchaves">![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)</a>
+I had used a temporary account for a while.
+Repositories from that account will be available on this account as well.
+
+I had taken a break on programming...
