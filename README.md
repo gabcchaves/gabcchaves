@@ -1,4 +1,3 @@
-I had used a temporary account for a while. (gccgabr)
-Repositories from that account will be available on this account as well.
+I had used a temporary account for a while. (gccgabr) https://github.com/gccgabr
 
 I had taken a break on programming...
