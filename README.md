@@ -1,3 +1,1 @@
-I had used a temporary account for a while. (gccgabr) https://github.com/gccgabr
 
-I had taken a break on programming...
